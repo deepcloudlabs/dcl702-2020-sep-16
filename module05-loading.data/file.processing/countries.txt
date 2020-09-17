@@ -1,0 +1,4 @@
+code,name,continent,population
+tur,turkey,asia,80000000
+fra,france,europe,70000000
+gre,greece,europe,10000000
