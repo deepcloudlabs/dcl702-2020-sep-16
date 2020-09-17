@@ -1,1 +1,5 @@
 pandas
+requests
+schedule
+websockets
+kafka-python
